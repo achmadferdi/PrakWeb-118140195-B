@@ -1,0 +1,28 @@
+{
+    "biodata" : {
+        "nama" : {
+            "Awal" : "Achmad Ferdi",
+            "Akhir" : "Apriansyah Nur"
+        },
+        "jenisKelamin" : "Laki-laki",
+        "status" : "Mahasiswa",
+        "saudara" : {
+            "nama" : "Aisyah"
+        },
+        "orangtua" : {
+            "hobi" : ["Main Game, Nonton"]
+        },
+        "alamat" : {
+            "Perum" : "Bukit Kemiling Permai",
+            "Kecamatan" : "Kemiling",
+            "Kota" : "Bandar Lampung",
+            "Provinsi" : "Lampung"
+        },
+        "sosialmedia" : {
+            "intagram" : "ahmad__ferdi",
+            "line" : "@ahmd_ferdi",
+            "github" : "achmadferdi"
+        }
+
+    }
+}
